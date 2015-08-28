@@ -1,0 +1,2 @@
+# Module cdkjs
+# RPC service class, partial path of RPC policy file
